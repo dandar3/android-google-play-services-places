@@ -1,4 +1,4 @@
-# android-google-play-services-places
+## android-google-play-services-places
 
 Eclipse library project based on:<br/>
 https://maven.google.com/com/google/android/gms/play-services-places/12.0.0/play-services-places-12.0.0.aar
@@ -9,7 +9,6 @@ https://maven.google.com/com/google/android/gms/play-services-places/12.0.0/play
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/12.0.0)
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/12.0.0)
 - [dandar3/android-google-play-services-maps](https://github.com/dandar3/android-google-play-services-maps/tree/12.0.0)
-- [dandar3/android-google-play-services-places-license](https://github.com/dandar3/android-google-play-services-places-license/tree/12.0.0)
 
 **References:**
 - https://developer.android.com/training/location/

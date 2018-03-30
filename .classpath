@@ -8,6 +8,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-base"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-basement"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-tasks"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-places-license"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-maps"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
