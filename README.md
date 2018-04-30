@@ -12,7 +12,8 @@ https://maven.google.com/com/google/android/gms/play-services-places/15.0.0/play
 - [dandar3/android-google-play-services-maps](https://github.com/dandar3/android-google-play-services-maps/tree/15.0.0)
 
 **References:**
-- https://developers.google.com/android/guides/releases#march_28_2018_-_version_1201
+- https://developers.google.com/places/android-api/intro
+- https://developers.google.com/android/guides/releases#april_12_2018_-_version_1500
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
